@@ -83,9 +83,6 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="D:\proj\C3\third-party\zlib\CMakeLists.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <Filter Include="Header Files">
       <UniqueIdentifier>{D477ED9E-5E7D-35D8-90E0-4478D1638419}</UniqueIdentifier>
     </Filter>
